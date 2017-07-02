@@ -1,1 +1,0 @@
-# adidas_parser
