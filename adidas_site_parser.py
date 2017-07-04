@@ -60,16 +60,16 @@ print(element,element.location, element.size)
 
 
 
-# actions = webdriver.common.action_chains.ActionChains(driver)
-# actions.move_to_element(element)
-# actions.click()
-# actions.perform()
+actions = webdriver.common.action_chains.ActionChains(driver)
+actions.move_to_element(element)
+actions.click()
+actions.perform()
 
 # wait.until(expected_conditions.visibility_of_element_located(
 #     (By.XPATH, '//div[@class="ffSelectMenuWrapper"]')))
 # time.sleep(1)
 # element = driver.find_element_by_xpath('//button[@name="add-to-cart-button"]')
 # element.click()
-# time.sleep(10)
+time.sleep(10)
 
-#driver.quit()
+driver.quit()

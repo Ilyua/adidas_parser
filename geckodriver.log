@@ -2731,3 +2731,19 @@ A coding exception was thrown and uncaught in a Task.
 Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
+1499181678153	geckodriver	INFO	Listening on 127.0.0.1:51753
+1499181679350	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499181689110	Marionette	INFO	Listening on port 43602
+1499181689468	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499181710685	Marionette	INFO	Ceased listening
+1499181732197	geckodriver	INFO	Listening on 127.0.0.1:47224
+1499181733349	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499181737408	Marionette	INFO	Listening on port 37403
+1499181737560	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499181762478	Marionette	INFO	New connections will no longer be accepted
