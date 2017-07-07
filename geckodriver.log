@@ -3788,3 +3788,126 @@ A coding exception was thrown and uncaught in a Task.
 Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
+1499412372693	geckodriver	INFO	Listening on 127.0.0.1:54267
+1499412374235	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412379881	Marionette	INFO	Listening on port 39529
+1499412380038	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499412402197	geckodriver	INFO	Listening on 127.0.0.1:39849
+1499412403314	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412404588	Marionette	INFO	Ceased listening
+1499412406196	Marionette	INFO	Listening on port 45045
+1499412406266	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1499412421596	Marionette	INFO	New connections will no longer be accepted
+1499412564751	geckodriver	INFO	Listening on 127.0.0.1:52725
+1499412565837	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412585784	geckodriver	INFO	Listening on 127.0.0.1:33499
+1499412586861	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412588383	Marionette	INFO	Listening on port 33939
+1499412588520	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499412608405	Marionette	INFO	New connections will no longer be accepted
+1499412823838	geckodriver	INFO	Listening on 127.0.0.1:38401
+1499412824926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412826505	Marionette	INFO	Listening on port 46037
+1499412826574	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499412846153	Marionette	INFO	New connections will no longer be accepted
+1499412846707	geckodriver	INFO	Listening on 127.0.0.1:45125
+1499412847803	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412851951	Marionette	INFO	Listening on port 46589
+1499412852027	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499412875652	Marionette	INFO	New connections will no longer be accepted
+1499412876016	geckodriver	INFO	Listening on 127.0.0.1:36319
+1499412877094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499412878580	Marionette	INFO	Listening on port 43217
+1499412878627	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413020437	geckodriver	INFO	Listening on 127.0.0.1:37459
+1499413021519	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413023200	Marionette	INFO	Listening on port 43881
+1499413023257	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413049061	geckodriver	INFO	Listening on 127.0.0.1:58547
+1499413050139	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413051859	Marionette	INFO	Listening on port 36535
+1499413052001	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413067320	Marionette	INFO	New connections will no longer be accepted
+1499413067766	geckodriver	INFO	Listening on 127.0.0.1:50425
+1499413068891	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413073441	Marionette	INFO	Listening on port 33509
+1499413073482	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413097463	Marionette	INFO	New connections will no longer be accepted
+1499413097839	geckodriver	INFO	Listening on 127.0.0.1:38609
+1499413098936	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413100758	Marionette	INFO	Listening on port 39155
+1499413100899	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413149193	geckodriver	INFO	Listening on 127.0.0.1:43553
+1499413150278	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413152675	Marionette	INFO	Listening on port 37887
+1499413152758	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413173160	Marionette	INFO	New connections will no longer be accepted
+1499413174422	geckodriver	INFO	Listening on 127.0.0.1:38361
+1499413175481	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413184316	Marionette	INFO	Listening on port 34011
+1499413184454	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413234621	Marionette	INFO	New connections will no longer be accepted
+1499413235074	geckodriver	INFO	Listening on 127.0.0.1:40373
+1499413236181	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413238608	Marionette	INFO	Listening on port 43299
+1499413238697	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413259375	Marionette	INFO	New connections will no longer be accepted
+1499413259766	geckodriver	INFO	Listening on 127.0.0.1:44805
+1499413260846	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1499413262949	Marionette	INFO	Listening on port 40407
+1499413262995	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+JavaScript warning: http://mathid.mathtag.com/d/i.js, line 1: unreachable code after return statement
+1499413284928	Marionette	INFO	New connections will no longer be accepted
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1499413630835	Marionette	INFO	Ceased listening
+1499413633441	Marionette	INFO	Ceased listening
