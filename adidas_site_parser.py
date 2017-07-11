@@ -1,22 +1,24 @@
-from pprint import pprint
-from lxml import etree,html
 import requests
 import time
-import sys
-
+import argparse
+from pprint import pprint
+from lxml import etree,html
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 
-doc='./adidas_all.html'
 
+def parser():
+    parser = argparse.ArgumentParser(description='Place order in ADIDAS',epilog="!!PROGRAM DOESN'T LEAF PAGES!!")
+    parser.add_argument ('-s','--size',required=True,help='Size of sneakers you want to order')
+    parser.add_argument ('-k','--key_word',required=True,help='Key word for search(e.g. "PORSCHE")')
+    return parser
 
 def progressbar_dec(function_to_decorate):
     def ppb(i, l):#PrintProgressbar
         printProgressBar(i, l, prefix = 'Progress:', suffix = 'Complete', length = 50)
     return ppb
-
 
 def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█'):
     """
@@ -38,8 +40,8 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
     if iteration == total:
         print()
 
-
 def get_links_of_goods(url,key_word):
+
     if (url is not None):
         response = requests.get(url)
         doc = response.content
@@ -188,5 +190,12 @@ def place_order(size,link):
     #time.sleep(10)
     driver.quit()
 
-for link in get_links_of_goods('http://www.adidas.ru/muzhchiny-krossovki', sys.argv[2]):
-    place_order(sys.argv[1],link)
+
+parser = parser()
+namespace = parser.parse_args()
+links = get_links_of_goods('http://www.adidas.ru/muzhchiny-krossovki', namespace.key_word)
+for number, link in enumerate(links):
+    print('Number {} of {}'.format(number+1, len(links)))
+    place_order(namespace.size,link)
+
+
