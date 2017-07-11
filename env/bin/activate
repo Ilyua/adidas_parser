@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelavent variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/ilyua/adidas_parser/env"
+VIRTUAL_ENV="/home/agrestid/adidas/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

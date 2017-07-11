@@ -2,6 +2,7 @@ from pprint import pprint
 from lxml import etree,html
 import requests
 import time
+import sys
 
 from selenium import webdriver
 from selenium.webdriver.support import expected_conditions
@@ -187,5 +188,5 @@ def place_order(size,link):
     #time.sleep(10)
     driver.quit()
 
-for link in get_links_of_goods('http://www.adidas.ru/muzhchiny-krossovki', 'PORSCHE'):
-    place_order('40',link)
+for link in get_links_of_goods('http://www.adidas.ru/muzhchiny-krossovki', sys.argv[2]):
+    place_order(sys.argv[1],link)
